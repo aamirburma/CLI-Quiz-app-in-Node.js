@@ -9,3 +9,4 @@ Instruction:
     <li>+5 for right answer, -2 for wrong answer</li>
     <li>At the end show the final score to the user</li>
 </ul>
+Run it: <a href="https://replit.com/@AAMIRSOHELBURMA/CLI-Quiz-app-in-Nodejs-1#index.js"> Click Here</a>
